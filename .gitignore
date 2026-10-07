@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Power BI temporary files
+*.pbit
+
+# OS files
+.DS_Store
+Thumbs.db
