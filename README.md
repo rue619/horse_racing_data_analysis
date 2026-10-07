@@ -111,3 +111,10 @@ Horse_Racing_Data_Analysis/
 ├── horse_racing_analysis.ipynb
 ├── horse_racing_dashboard.pbix
 └── README.md
+## Conclusion
+
+This project demonstrates an end-to-end data analytics workflow, from raw data cleaning and validation to exploratory analysis, visualization, and Power BI dashboard development.
+
+The analysis found clear associations between race performance and factors such as horse rating, starting odds, and draw position, while also showing that race conditions can influence performance.
+
+The project demonstrates how Python and Power BI can be used together to transform raw racing data into meaningful analytical insights.
