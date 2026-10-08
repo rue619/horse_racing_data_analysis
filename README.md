@@ -73,6 +73,23 @@ Examines the relationship between starting odds and race outcomes.
 ### 4. Race Conditions
 
 Explores performance across distance, venue, track going, and field size.
+## Dashboard Preview
+
+### Overview
+
+![Overview Dashboard](visualizations/overview_dashboard.png)
+
+### Horse Performance
+
+![Horse Performance Dashboard](visualizations/horse_performance.png)
+
+### Betting & Market
+
+![Betting & Market Dashboard](visualizations/betting_market.png)
+
+### Race Conditions
+
+![Race Conditions Dashboard](visualizations/race_conditions.png)
 
 ## Key Findings
 
